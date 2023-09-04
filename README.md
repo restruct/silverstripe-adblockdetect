@@ -1,2 +1,2 @@
 # silverstripe-adblockdetect
-Basic JS-based adblocker detection module (+ warning alert template)
+Basic JS-based adblocker detection module (+ warning alert Silverstripe template)

@@ -1,0 +1,20 @@
+{
+  "name": "restruct/silverstripe-adblockdetect",
+  "description": "Simple adblock detection in JS",
+  "type": "silverstripe-vendormodule",
+  "license": "MIT",
+  "keywords": [
+    "silverstripe"
+  ],
+  "authors": [
+    {
+      "name": "Restruct",
+      "email": "dev@restruct.nl"
+    }
+  ],
+  "extra": {
+    "expose": [
+      "client/js"
+    ]
+  }
+}
